@@ -1,0 +1,3 @@
+Esse arquivo foi criado como parte de uma atividade escolar, para aprender funcionamentos do git e github.
+
+Esse arquivo foi feito para demonstrar a inclusão e gerenciamento de arquivos txt via git.
